@@ -24,7 +24,7 @@ A comprehensive AI-powered mobile application for detecting diseases in dragon f
 
 ## Screenshots
 
-| Home Screen | Camera Screen | Live Detection | History |
+| Application Screen | App Pipeline | Live Detection | History |
 |-------------|---------------|----------------|---------|
 | <img src="dragon_images/application_interface.png" width="200"/> | <img src="dragon_images/application_pipeline.png" width="200"/> | <img src="dragon_images/jetson_nano_pipeline.png" width="200"/> | <img src="dragon_images/training_history.png" width="200"/> |
 
