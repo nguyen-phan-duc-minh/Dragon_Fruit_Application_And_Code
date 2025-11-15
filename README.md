@@ -5,6 +5,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9.2-blue.svg)](https://www.typescriptlang.org/)
 [![Expo](https://img.shields.io/badge/Expo-~54.0.12-lightgrey.svg)](https://expo.dev/)
 
+**Author:** Nguyễn Phan Đức Minh  
+**Role:** AI Researcher | Deep Learning, Machine Learning
+
 A comprehensive AI-powered mobile application for detecting diseases in dragon fruit and leaves using computer vision and deep learning. This project includes both the machine learning model training code and a complete React Native mobile application.
 
 ## Features
